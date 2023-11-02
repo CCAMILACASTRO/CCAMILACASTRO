@@ -55,4 +55,4 @@ Hola, mi nombre es Camila Castro, y soy programadora web en busca de oportunidad
 
 ## 🔗 Contacto :
 
-<p>📧 Puedes contactarme en camicastro.11.94@gmail.com</p>
+<p>📧 Puedes contactarme a camicastro.11.94@gmail.com</p>
