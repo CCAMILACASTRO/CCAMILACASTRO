@@ -12,15 +12,15 @@
 <br>
     
 ## 👨‍💻 Sobre mi  :
-Hola, mi nombre es Camila Castro, y soy programadora web en busca de oportunidades para aprender y crecer. Vivo en Argentina y tengo 29 años.
+Hola, mi nombre es Camila Castro, y soy programadora web, vivo en Argentina y tengo 29 años.
 
 🚀 Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades. Tengo experiencia en el stack SERN: Sequelize, Express, React, Node  y mi gusto por aprender me impulsa constantemente a explorar nuevas tecnologías y adquirir habilidades adicionales. 
 
 💡 Me encanta la idea de ampliar mis conocimientos y seguir creciendo en el mundo del desarrollo web. Tengo la capacidad de desarrollar aplicaciones web que destacan por su interactividad y dinamismo, ofreciendo a los usuarios una experiencia única.
 
-💼 He trabajado en proyectos personales y grupales lo que me ha permitido desarrollar y aplicar una serie de habilidades que considero esenciales para mi carrera.
+💼 He trabajado en proyectos personales y grupales lo que me ha permitido desarrollar habilidades tales como el trabajo en equipo, resolución de problemas y empatía.
 
-🤗 Soy una persona empática que no solo busca el crecimiento personal, sino también el crecimiento del equipo y la organización en general
+🤗 Soy que no solo busca el crecimiento personal, sino también el crecimiento del equipo y la organización en general
 
 ¡Estoy emocionada por las nuevas oportunidades y proyectos por delante!
 
