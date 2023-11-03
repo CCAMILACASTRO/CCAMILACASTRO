@@ -3,7 +3,7 @@
 </div >
     <h1 align="center">👋 Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Camila </h1>
     <div align="center">
-        <a  href="https://www.linkedin.com/in/camila-castro-95aa39163/">
+        <a  href="https://www.linkedin.com/in/ccamila-castro/">
         <img   src="https://camo.githubusercontent.com/f4f0ef7493c38feb75ede98d04b23bf1d019e30f9239f5f7113a3a84cb0d791d/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6c696e6b6564696e2e706e67" width="40" height="40" alt="LinkedIn">
         </a>
     </div>
