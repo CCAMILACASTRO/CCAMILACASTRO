@@ -18,9 +18,9 @@ Hola, mi nombre es Camila Castro, vivo en Argentina, tengo 29 años y soy progra
 
 💡 Me encanta la idea de ampliar mis conocimientos y seguir creciendo en el mundo del desarrollo web. Tengo la capacidad de desarrollar aplicaciones web que destacan por su interactividad y dinamismo, ofreciendo a los usuarios una experiencia única.
 
-💼 He trabajado en proyectos personales y grupales lo que me ha permitido desarrollar habilidades tales como el trabajo en equipo, resolución de problemas y empatía.
+💼 He trabajado en proyectos personales y grupales lo que me ha permitido desarrollar habilidades tales como el trabajo en equipo, resolución de problemas, empatia, pensamiento creativo, organización y adaptabilidad al cambio.
 
-🤗 Soy que no solo busca el crecimiento personal, sino también el crecimiento del equipo y la organización en general
+🤗 Soy una persona que no solo busca el crecimiento personal, sino también el crecimiento del equipo y la organización en general
 
 ¡Estoy emocionada por las nuevas oportunidades y proyectos por delante!
 
