@@ -12,7 +12,7 @@
 <br>
     
 ## 👨‍💻 Sobre mi  :
-Hola, mi nombre es Camila Castro, vivo en Argentina y tengo 29 años, y soy programadora web Full Stack.
+Hola, mi nombre es Camila Castro, vivo en Argentina, tengo 29 años y soy programadora web Full Stack.
 
 🚀 Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades. Tengo experiencia en el stack SERN: Sequelize, Express, React, Node  y mi gusto por aprender me impulsa constantemente a explorar nuevas tecnologías y adquirir habilidades adicionales. 
 
