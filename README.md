@@ -33,7 +33,7 @@ Hola, mi nombre es Camila Castro, vivo en Argentina y soy programadora web Full 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,js,nodejs,react,redux,postgres,sequelize,express, github, figma, discord, trello" />
+    <img src="https://skillicons.dev/icons?i=git,css,html,js,nodejs,react,redux,postgres,sequelize,express" />
   </a>
 </p>
 
