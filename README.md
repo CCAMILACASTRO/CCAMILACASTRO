@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
     <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif"  width="1200" height="250"> 
 </div >
     <h1 align="center">👋 Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Camila </h1>
